@@ -1,0 +1,19 @@
+# ninja log v5
+0	24	0	clean	e46f23beb2a48637
+0	1500	6721237433063528	CMakeFiles/evaluateexpresion_sin_nombre_3.dir/main.cpp.obj	c5c66adf73074f36
+1516	3371	6721237450621577	evaluateexpresion_sin_nombre_3.exe	4bbf8ffc0313d310
+0	23	0	clean	e46f23beb2a48637
+0	1330	6721252043281436	CMakeFiles/evaluateexpresion_sin_nombre_3.dir/main.cpp.obj	c5c66adf73074f36
+1336	2120	6721252049711894	evaluateexpresion_sin_nombre_3.exe	4bbf8ffc0313d310
+0	16	0	clean	e46f23beb2a48637
+0	887	6721265668183027	CMakeFiles/evaluateexpresion_sin_nombre_3.dir/main.cpp.obj	c5c66adf73074f36
+902	1421	6721265671679322	evaluateexpresion_sin_nombre_3.exe	4bbf8ffc0313d310
+0	16	0	clean	e46f23beb2a48637
+0	584	6721270153378702	CMakeFiles/evaluateexpresion_sin_nombre_3.dir/main.cpp.obj	c5c66adf73074f36
+593	981	6721270156457829	evaluateexpresion_sin_nombre_3.exe	4bbf8ffc0313d310
+1	18	0	clean	e46f23beb2a48637
+0	710	6721272200116938	CMakeFiles/evaluateexpresion_sin_nombre_3.dir/main.cpp.obj	c5c66adf73074f36
+725	1250	6721272204153801	evaluateexpresion_sin_nombre_3.exe	4bbf8ffc0313d310
+0	17	0	clean	e46f23beb2a48637
+0	589	6721272500727656	CMakeFiles/evaluateexpresion_sin_nombre_3.dir/main.cpp.obj	c5c66adf73074f36
+603	958	6721272503820776	evaluateexpresion_sin_nombre_3.exe	4bbf8ffc0313d310
